@@ -1,0 +1,341 @@
+C:\Users\ckdba\Source\Repos\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\ckdba\Source\Repos\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\ckdba\Source\Repos\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\ckdba\Source\Repos\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Downloads\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\mtops\Downloads\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Downloads\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Downloads\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\mtops\Downloads\-MES-\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\mtops\Downloads\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\mtops\Downloads\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\mtops\Downloads\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Downloads\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\mtops\Downloads\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\mtops\Downloads\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\mtops\Downloads\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Downloads\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\mtops\Desktop\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\mtops\Desktop\-MES-\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\mtops\Desktop\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\mtops\Desktop\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\mtops\Desktop\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Desktop\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\mtops\Desktop\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\mtops\Desktop\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\mtops\Desktop\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\mtops\Desktop\-MES-\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\bin\Debug\MetroFramework.Design.dll
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\bin\Debug\MetroFramework.dll
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\ckdba\OneDrive\바탕 화면\-MES- (3)수정\-MES- (3)수정\-MES- (3)\-MES-\-MES-\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\0627.14.12\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\user\Desktop\0627.14.12\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\0627.14.12\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\0627.14.12\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\0627.14.12\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\0627.14.12\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\0627.14.12\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\0627.14.12\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06271452(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\user\Desktop\06271452(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06271452(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06271452(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\06271452(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\06271452(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06271452(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06281042(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\user\Desktop\06281042(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06281042(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06281042(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\06281042(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\06281042(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06281042(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06281157(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\user\Desktop\06281157(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06281157(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06281157(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\06281157(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\06281157(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06281157(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06281520(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\user\Desktop\06281520(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06281520(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06281520(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\06281520(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\06281520(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06281520(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06281520(종합본) - 복사본\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\user\Desktop\06281520(종합본) - 복사본\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06281520(종합본) - 복사본\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\06281520(종합본) - 복사본\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\06281520(종합본) - 복사본\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\06281520(종합본) - 복사본\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\06281520(종합본) - 복사본\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\ckdba\OneDrive\바탕 화면\07011428(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07011458(종합본)\07011458(종합본)\07011428(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07011635(종합본)(복사본)\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07011735(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07011835(종합본) - 복사본\07011635(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07020948(종합본) (2)\07011900(종합본)\07011900(종합본)\07011635(종합본)\07011635(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form3.resources
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\bin\Debug\MetroFramework.dll
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Form3.resources
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\mtops\Desktop\-MES-\07021030(종합본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\07021536(최종본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\user\Desktop\07021536(최종본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\07021536(최종본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\07021536(최종본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\07021536(최종본)\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\07021536(최종본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리_MES_프로젝트.Form3.resources
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\07021536(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\07031016(최종본)\bin\Debug\스마트팩토리 MES 프로젝트.exe.config
+C:\Users\user\Desktop\07031016(최종본)\bin\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\07031016(최종본)\bin\Debug\스마트팩토리 MES 프로젝트.pdb
+C:\Users\user\Desktop\07031016(최종본)\bin\Debug\MetroFramework.Design.dll
+C:\Users\user\Desktop\07031016(최종본)\bin\Debug\MetroFramework.dll
+C:\Users\user\Desktop\07031016(최종본)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\Interop.ActUtlTypeLib.dll
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리_MES_프로젝트.Form1.resources
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리_MES_프로젝트.Form2.resources
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리_MES_프로젝트.Form3.resources
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리_MES_프로젝트.Properties.Resources.resources
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.GenerateResource.cache
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리 M.3BB6F28D.Up2Date
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.exe
+C:\Users\user\Desktop\07031016(최종본)\obj\Debug\스마트팩토리 MES 프로젝트.pdb
